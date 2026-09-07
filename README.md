@@ -1,1 +1,2 @@
 # UCO-REPORT
+DAILY
